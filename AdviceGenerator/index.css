@@ -93,7 +93,7 @@ i.fa-dice-five{
     line-height: 60px;
 }
 
-/* Media Queries Between 300px and 450px */
+/* Media Queries Between 300px and 420px */
 
 @media (300px <= width <= 420px){
     div.parent-box{
@@ -102,6 +102,10 @@ i.fa-dice-five{
 
     p.advice_idea{
         font-size: 23px;
+    }
+
+    div.bottom-part{
+        left: 40%;
     }
     
 }
