@@ -105,16 +105,20 @@ i.fa-dice-five{
     }
 
     div.bottom-part{
-        left: 40%;
+        left: 41%;
     }
     
 }
 
-/* Media Queries Between 421px and 600px */
+/* Media Queries Between 421px and 550px */
 
 @media (421px <= width <= 550px){
     div.parent-box{
         width: 87%;
+    }
+
+      div.bottom-part{
+        left: 43%;
     }
     
 }
@@ -132,7 +136,7 @@ i.fa-dice-five{
     
 }
 
-/* Media Queries Between 701px and 850px */
+/* Media Queries Between 701px and 800px */
 
 @media (701px <= width <= 800px){
     div.parent-box{
